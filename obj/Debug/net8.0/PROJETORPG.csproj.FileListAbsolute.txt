@@ -1,0 +1,14 @@
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.AssemblyInfoInputs.cache
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.AssemblyInfo.cs
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.csproj.CoreCompileInputs.cache
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\bin\Debug\net8.0\PROJETORPG.exe
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\bin\Debug\net8.0\PROJETORPG.deps.json
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\bin\Debug\net8.0\PROJETORPG.runtimeconfig.json
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\bin\Debug\net8.0\PROJETORPG.dll
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\bin\Debug\net8.0\PROJETORPG.pdb
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.dll
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\refint\PROJETORPG.dll
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.pdb
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\PROJETORPG.genruntimeconfig.cache
+D:\FACUL\Joguitos\Projeto - RPG\PROJETORPG\obj\Debug\net8.0\ref\PROJETORPG.dll
