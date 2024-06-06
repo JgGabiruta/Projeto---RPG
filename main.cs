@@ -19,13 +19,14 @@ class Program
         carisma = ObterValorInteiro("Pontos de carisma:");
         vitalidade = ObterValorInteiro("Pontos de vitalidade:");
         inteligencia = ObterValorInteiro("Pontos de inteligência:");
-
-        Console.WriteLine($"O nome do seu personagem é: {nome}");
-        Console.WriteLine($"Idade: {idade}");
-        Console.WriteLine($"Pontos de força: {forca}");
-        Console.WriteLine($"Pontos de carisma: {carisma}");
-        Console.WriteLine($"Pontos de vitalidade: {vitalidade}");
-        Console.WriteLine($"Pontos de inteligência: {inteligencia}");
+        Console.WriteLine("#######################################################################");
+        Console.WriteLine($"O nome do seu personagem é: {nome}                                        ##");
+        Console.WriteLine($"Idade: {idade}                                                             ##");
+        Console.WriteLine($"Pontos de força: {forca}                                                    ##");
+        Console.WriteLine($"Pontos de carisma: {carisma}                                               ##");
+        Console.WriteLine($"Pontos de vitalidade: {vitalidade}                                                ##");
+        Console.WriteLine($"Pontos de inteligência: {inteligencia}                                         ##");
+        Console.WriteLine("######################################################################");
     }
 
     public static int ObterValorInteiro(string mensagem)
