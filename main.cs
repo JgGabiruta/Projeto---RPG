@@ -10,22 +10,25 @@ class Program
     public static void ficha()
     {
         Console.WriteLine("Ficha");
-        Console.WriteLine("Nome:");
+        Console.WriteLine("Nome: (sem caracteres especiais)");
         string nome = Console.ReadLine();
         int idade = 0, forca = 0, carisma = 0, vitalidade = 0, inteligencia = 0;
 
         idade = ObterValorInteiro("Idade:");
+        Console.WriteLine("Digite a raça do seu personagem");
+        string raca = Console.ReadLine();
         forca = ObterValorInteiro("Pontos de força:");
         carisma = ObterValorInteiro("Pontos de carisma:");
         vitalidade = ObterValorInteiro("Pontos de vitalidade:");
         inteligencia = ObterValorInteiro("Pontos de inteligência:");
         Console.WriteLine("#######################################################################");
-        Console.WriteLine($"O nome do seu personagem é: {nome}                                        ##");
-        Console.WriteLine($"Idade: {idade}                                                             ##");
-        Console.WriteLine($"Pontos de força: {forca}                                                    ##");
+        Console.WriteLine($"O nome do seu personagem é: {nome}                                      ##");
+        Console.WriteLine($"Idade: {idade}                                                           ##");
+        Console.WriteLine($"Raça: {raca}                                                           ##");
+        Console.WriteLine($"Pontos de força: {forca}                                                  ##");
         Console.WriteLine($"Pontos de carisma: {carisma}                                               ##");
-        Console.WriteLine($"Pontos de vitalidade: {vitalidade}                                                ##");
-        Console.WriteLine($"Pontos de inteligência: {inteligencia}                                         ##");
+        Console.WriteLine($"Pontos de vitalidade: {vitalidade}                                             ##");
+        Console.WriteLine($"Pontos de inteligência: {inteligencia}                                           ##");
         Console.WriteLine("######################################################################");
     }
 
