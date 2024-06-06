@@ -6,7 +6,7 @@ class Program
     {
         BoasVindas();
     }
-
+    //Criação de Fichas
     public static void ficha()
     {
         Console.WriteLine("Ficha");
@@ -30,7 +30,7 @@ class Program
         Console.WriteLine($"Pontos de vitalidade: {vitalidade}                                             ##");
         Console.WriteLine($"Pontos de inteligência: {inteligencia}                                           ##");
         Console.WriteLine("######################################################################");
-    }
+    }//Valores da ficha adicionados
 
     public static int ObterValorInteiro(string mensagem)
     {
